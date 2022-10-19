@@ -1,0 +1,20 @@
+.wrapper {
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  display: flex;
+}
+
+.form-control {
+  background-color: #f8f9fa;
+  width: 250px;
+  height: 25px;
+  padding: 20px;
+  padding: 25px 15px;
+  margin-bottom: 1.3rem;
+}
+
+.general-data-container {
+  width: auto;
+  height: auto;
+}
